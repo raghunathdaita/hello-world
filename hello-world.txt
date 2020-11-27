@@ -3,3 +3,4 @@ Added new line to create version 2.0 of my file
 Added new line to create version 3.0 of my file
 Added new line to create version 4.0 of my file
 Added new line to create version 5.0 of my file - New Git tutorial
+Added new line to create version 6.0 of my file - New Git tutorial - in the new branch - mynewbranch
